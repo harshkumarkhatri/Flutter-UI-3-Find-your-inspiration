@@ -14,7 +14,7 @@ Built in:-
 * Flutter
 ___ 
 Snap from the UI:-<br>
-* Full video of the UI:- <br>
+* Full video of the UI:- https://youtu.be/DFQe9HGfDX0 <br>
 Original UI:-<br>
 ![Snap](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595780282/readme%20images/find%20your%20inspiration%20ui%203/Screenshot_from_2020-07-26_21-45-06_bnpjr7.png)
 ![Snap](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595780282/readme%20images/find%20your%20inspiration%20ui%203/Screenshot_from_2020-07-26_21-45-24_zfylaq.png)
