@@ -1,6 +1,11 @@
 # find_your_inspiration_ui_3
 
-This is a UI which i created in Flutter.
+This is a UI which i created in Flutter.<br>
+This UI is a part of a series of UI's i am building. Check other UI's clicking the linke below
+* [Flutter UI 1 Login UI](https://github.com/harshkumarkhatri/Flutter-UI-1-Login-UI)
+* [Flutter UI 2 Product Showcase UI](https://github.com/harshkumarkhatri/Product-Showcase-UI-Flutter)
+* [Flutter UI 3 Find Your Inspiration](https://github.com/harshkumarkhatri/Flutter-UI-3-Find-your-inspiration)
+
 **About the UI**<br>
 This UI is a part of UI videos which i upload on my youtube channel and this is the Fourth UI for the same. I found this UI on dribble and thought of making it on my own with flutter. <br>
 Things which are done in this include:-<br>
